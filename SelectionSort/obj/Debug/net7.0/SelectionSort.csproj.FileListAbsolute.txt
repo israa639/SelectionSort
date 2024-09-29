@@ -1,0 +1,14 @@
+C:\Task\SelectionSort\SelectionSort\bin\Debug\net7.0\SelectionSort.exe
+C:\Task\SelectionSort\SelectionSort\bin\Debug\net7.0\SelectionSort.deps.json
+C:\Task\SelectionSort\SelectionSort\bin\Debug\net7.0\SelectionSort.runtimeconfig.json
+C:\Task\SelectionSort\SelectionSort\bin\Debug\net7.0\SelectionSort.dll
+C:\Task\SelectionSort\SelectionSort\bin\Debug\net7.0\SelectionSort.pdb
+C:\Task\SelectionSort\SelectionSort\obj\Debug\net7.0\SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Task\SelectionSort\SelectionSort\obj\Debug\net7.0\SelectionSort.AssemblyInfoInputs.cache
+C:\Task\SelectionSort\SelectionSort\obj\Debug\net7.0\SelectionSort.AssemblyInfo.cs
+C:\Task\SelectionSort\SelectionSort\obj\Debug\net7.0\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Task\SelectionSort\SelectionSort\obj\Debug\net7.0\SelectionSort.dll
+C:\Task\SelectionSort\SelectionSort\obj\Debug\net7.0\refint\SelectionSort.dll
+C:\Task\SelectionSort\SelectionSort\obj\Debug\net7.0\SelectionSort.pdb
+C:\Task\SelectionSort\SelectionSort\obj\Debug\net7.0\SelectionSort.genruntimeconfig.cache
+C:\Task\SelectionSort\SelectionSort\obj\Debug\net7.0\ref\SelectionSort.dll
